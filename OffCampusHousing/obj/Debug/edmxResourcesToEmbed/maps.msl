@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="mapsModelStoreContainer" CdmEntityContainer="mapsEntities">
+    <EntitySetMapping Name="gmaps">
+      <EntityTypeMapping TypeName="mapsModel.gmap">
+        <MappingFragment StoreEntitySet="gmaps">
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="LocLat" ColumnName="LocLat" />
+          <ScalarProperty Name="LocLong" ColumnName="LocLong" />
+          <ScalarProperty Name="ReadUrl" ColumnName="ReadUrl" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

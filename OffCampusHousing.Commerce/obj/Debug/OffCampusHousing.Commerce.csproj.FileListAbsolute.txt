@@ -1,0 +1,5 @@
+c:\users\karth\documents\visual studio 2015\Projects\OffCampusHousing\OffCampusHousing.Commerce\bin\Debug\OffCampusHousing.Commerce.dll
+c:\users\karth\documents\visual studio 2015\Projects\OffCampusHousing\OffCampusHousing.Commerce\bin\Debug\OffCampusHousing.Commerce.pdb
+c:\users\karth\documents\visual studio 2015\Projects\OffCampusHousing\OffCampusHousing.Commerce\obj\Debug\OffCampusHousing.Commerce.dll
+c:\users\karth\documents\visual studio 2015\Projects\OffCampusHousing\OffCampusHousing.Commerce\obj\Debug\OffCampusHousing.Commerce.pdb
+C:\Users\karth\documents\visual studio 2015\Projects\OffCampusHousing\OffCampusHousing.Commerce\obj\Debug\OffCampusHousing.Commerce.csprojResolveAssemblyReference.cache
